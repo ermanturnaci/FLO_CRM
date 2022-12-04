@@ -1,5 +1,9 @@
 # FLO_CRM
+Customer Segmentation with RFM
 The data set is based on the past shopping behavior of customers who made their last purchases both online and offline in 2020 - 2021
+
+Business Problem : FLO wants to segment its customers and determine marketing strategies according to these segments.
+For this purpose, the behaviors of the customers will be defined and groups will be formed according to these behavior clusters.
 
 | Veriables     |               | 
 | ------------- |:-------------:| 
